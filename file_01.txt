@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 update 1（修复bug)
+dev 100%
+>>>>>>> dev
