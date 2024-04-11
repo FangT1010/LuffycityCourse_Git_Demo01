@@ -1,3 +1,5 @@
 file 02 update
 
-update function 01
+update function 01 100%
+(mirror) update function 02
+
